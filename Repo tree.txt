@@ -1,0 +1,9 @@
+mirna-graph-gnn-exrna-atlas/
+│
+├── README.md
+├── 01_build_graph.ipynb
+├── 02_train_gnn.ipynb
+├── env.yml
+├── LICENSE
+└── data/
+    └── exrna_meta_sample.tsv   ←  sample 50-row metadata (for demo only)
